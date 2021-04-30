@@ -1,4 +1,3 @@
-# 9MDa3e4_TSA_Python
 A brief explained course about time series.
 
 To run the files in this repository, there is launch of bynder
