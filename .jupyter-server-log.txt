@@ -29,3 +29,28 @@ TermSocket.open: Opened 1
 [I 02:23:47.909 NotebookApp] Creating new file in 
 [I 02:27:44.821 NotebookApp] Saving file at /untitled.txt
 [I 02:40:00.605 NotebookApp] Saving file at /Git steps
+[I 02:42:38.796 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[W 02:42:38.798 NotebookApp] Notebook Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb is not trusted
+[I 02:42:39.697 NotebookApp] Kernel started: 47d111b2-e051-412d-8df3-70f322a02e24, name: python3
+[I 02:42:39.698 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 02:42:39.698 NotebookApp] Culling kernels even with connected clients
+[I 02:44:41.093 NotebookApp] Saving file at /Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb
+[W 02:44:41.094 NotebookApp] Notebook Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb is not trusted
+[W 02:53:39.699 NotebookApp] Culling 'idle' kernel 'python3' (47d111b2-e051-412d-8df3-70f322a02e24) with 1 connections due to 658 seconds of inactivity.
+[I 02:53:39.700 NotebookApp] Kernel shutdown: 47d111b2-e051-412d-8df3-70f322a02e24
+[W 02:53:40.285 NotebookApp] 410 DELETE /user/phystony-9mda3e4_tsa_python-7ddadpkv/api/sessions/8b26a991-9393-4de6-be49-921acb3e0c6f (187.189.145.198): Kernel deleted before session
+[W 02:53:40.285 NotebookApp] Kernel deleted before session
+[W 02:53:40.286 NotebookApp] 410 DELETE /user/phystony-9mda3e4_tsa_python-7ddadpkv/api/sessions/8b26a991-9393-4de6-be49-921acb3e0c6f (187.189.145.198) 1.850000ms referer=https://hub.mybinder.turing.ac.uk/user/phystony-9mda3e4_tsa_python-7ddadpkv/notebooks/Section%203/S_3_L_11/Section%203%20-%20Introduction%20to%20Time%20Series%20-%20Completed%20.ipynb
+[W 02:54:00.788 NotebookApp] 404 DELETE /user/phystony-9mda3e4_tsa_python-7ddadpkv/api/sessions/8b26a991-9393-4de6-be49-921acb3e0c6f (187.189.145.198): Session not found: session_id='8b26a991-9393-4de6-be49-921acb3e0c6f'
+[W 02:54:00.789 NotebookApp] Session not found: session_id='8b26a991-9393-4de6-be49-921acb3e0c6f'
+[W 02:54:00.789 NotebookApp] 404 DELETE /user/phystony-9mda3e4_tsa_python-7ddadpkv/api/sessions/8b26a991-9393-4de6-be49-921acb3e0c6f (187.189.145.198) 2.280000ms referer=https://hub.mybinder.turing.ac.uk/user/phystony-9mda3e4_tsa_python-7ddadpkv/notebooks/Section%203/S_3_L_11/Section%203%20-%20Introduction%20to%20Time%20Series%20-%20Completed%20.ipynb
+[I 02:54:01.006 NotebookApp] Kernel started: d6ed419c-e50d-4b25-8891-757459db232d, name: python3
+[I 02:56:40.353 NotebookApp] Saving file at /Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb
+[W 02:56:40.354 NotebookApp] Notebook Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb is not trusted
+[I 02:56:55.460 NotebookApp] Saving file at /Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb
+[W 02:56:55.461 NotebookApp] Notebook Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb is not trusted
+[I 02:58:39.991 NotebookApp] Saving file at /Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb
+[W 02:58:39.992 NotebookApp] Notebook Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb is not trusted
+[I 02:59:33.484 NotebookApp] Saving file at /Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb
+[W 02:59:33.484 NotebookApp] Notebook Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb is not trusted
+[I 02:59:36.366 NotebookApp] Starting buffering for d6ed419c-e50d-4b25-8891-757459db232d:0d101b58904f4dacb21887d81bb6b0a6
