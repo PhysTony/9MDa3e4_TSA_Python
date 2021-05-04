@@ -28,3 +28,4 @@ TermSocket.open: 1
 TermSocket.open: Opened 1
 [I 02:23:47.909 NotebookApp] Creating new file in 
 [I 02:27:44.821 NotebookApp] Saving file at /untitled.txt
+[I 02:40:00.605 NotebookApp] Saving file at /Git steps
