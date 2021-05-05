@@ -54,3 +54,72 @@ TermSocket.open: Opened 1
 [I 02:59:33.484 NotebookApp] Saving file at /Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb
 [W 02:59:33.484 NotebookApp] Notebook Section 3/S_3_L_11/Section 3 - Introduction to Time Series - Completed .ipynb is not trusted
 [I 02:59:36.366 NotebookApp] Starting buffering for d6ed419c-e50d-4b25-8891-757459db232d:0d101b58904f4dacb21887d81bb6b0a6
+[W 2021-05-04 23:04:08.400 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-04 23:04:08.400 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-04 23:04:08.400 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-04 23:04:08.400 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-05-04 23:04:08.410 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-05-04 23:04:08.411 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 23:04:08.420 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 23:04:08.422 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 23:04:08.423 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 23:04:08.423 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 23:04:08.423 NotebookApp] http://jupyter-phystony-2d9mda3e4-5ftsa-5fpython-2d5cbyzpy8:8888/user/phystony-9mda3e4_tsa_python-5cbyzpy8/?token=...
+[I 23:04:08.423 NotebookApp]  or http://127.0.0.1:8888/user/phystony-9mda3e4_tsa_python-5cbyzpy8/?token=...
+[I 23:04:08.423 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:04:08.428 NotebookApp] No web browser found: could not locate runnable browser.
+[I 23:04:08.430 NotebookApp] 302 GET /user/phystony-9mda3e4_tsa_python-5cbyzpy8/ (10.0.1.13) 0.710000ms
+[I 23:04:08.735 NotebookApp] 302 GET /user/phystony-9mda3e4_tsa_python-5cbyzpy8/?token=lluaq0yAR0G9K98d6rI8jA (187.189.145.198) 0.590000ms
+[I 23:11:30.120 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 23:12:12.310 NotebookApp] delete /cvcourse_windows.yml
+[W 23:35:24.623 NotebookApp] Notebook Section 4/Updating The Data.ipynb is not trusted
+[I 23:35:24.981 NotebookApp] Kernel started: 9bbbf662-c024-4f2f-bc78-0031b5c9597e, name: python3
+[I 23:35:24.981 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 23:35:24.981 NotebookApp] Culling kernels even with connected clients
+[I 23:35:58.989 NotebookApp] Saving file at /Section 4/Updating The Data.ipynb
+[I 23:40:42.291 NotebookApp] Starting buffering for 9bbbf662-c024-4f2f-bc78-0031b5c9597e:39fd54ff9156412689bbb433f18d8e7e
+[W 23:40:49.006 NotebookApp] Notebook Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb is not trusted
+[I 23:40:50.352 NotebookApp] Kernel started: 57bf3769-a537-42bc-9f06-21a811617c6c, name: python3
+[I 23:42:50.620 NotebookApp] Saving file at /Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb
+[W 23:42:50.621 NotebookApp] Notebook Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb is not trusted
+[W 23:46:24.982 NotebookApp] Culling 'idle' kernel 'python3' (9bbbf662-c024-4f2f-bc78-0031b5c9597e) with 0 connections due to 659 seconds of inactivity.
+[I 23:46:24.985 NotebookApp] Kernel shutdown: 9bbbf662-c024-4f2f-bc78-0031b5c9597e
+[W 23:51:24.983 NotebookApp] Culling 'idle' kernel 'python3' (57bf3769-a537-42bc-9f06-21a811617c6c) with 1 connections due to 633 seconds of inactivity.
+[I 23:51:24.983 NotebookApp] Kernel shutdown: 57bf3769-a537-42bc-9f06-21a811617c6c
+[W 23:51:25.418 NotebookApp] 410 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/fb5b27bb-caf8-4675-b69a-8aa79e8857ca (187.189.145.198): Kernel deleted before session
+[W 23:51:25.418 NotebookApp] Kernel deleted before session
+[W 23:51:25.419 NotebookApp] 410 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/fb5b27bb-caf8-4675-b69a-8aa79e8857ca (187.189.145.198) 2.350000ms referer=https://hub.gke2.mybinder.org/user/phystony-9mda3e4_tsa_python-5cbyzpy8/notebooks/Section%204/S_4_L_15/Section%204%20-%20Creating%20a%20Time%20Series%20Object%20in%20Python%20-%20Completed%20.ipynb
+[W 23:51:28.323 NotebookApp] 404 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/fb5b27bb-caf8-4675-b69a-8aa79e8857ca (187.189.145.198): Session not found: session_id='fb5b27bb-caf8-4675-b69a-8aa79e8857ca'
+[W 23:51:28.323 NotebookApp] Session not found: session_id='fb5b27bb-caf8-4675-b69a-8aa79e8857ca'
+[W 23:51:28.324 NotebookApp] 404 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/fb5b27bb-caf8-4675-b69a-8aa79e8857ca (187.189.145.198) 2.040000ms referer=https://hub.gke2.mybinder.org/user/phystony-9mda3e4_tsa_python-5cbyzpy8/notebooks/Section%204/S_4_L_15/Section%204%20-%20Creating%20a%20Time%20Series%20Object%20in%20Python%20-%20Completed%20.ipynb
+[I 23:51:28.400 NotebookApp] Kernel started: 0e735710-8f3e-49c8-8e04-cd02529f3c98, name: python3
+[I 23:52:50.505 NotebookApp] Saving file at /Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb
+[W 23:52:50.505 NotebookApp] Notebook Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb is not trusted
+[I 23:54:50.974 NotebookApp] Saving file at /Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb
+[W 23:54:50.975 NotebookApp] Notebook Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb is not trusted
+[I 23:58:50.441 NotebookApp] Saving file at /Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb
+[W 23:58:50.442 NotebookApp] Notebook Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb is not trusted
+[I 23:59:38.800 NotebookApp] Saving file at /Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb
+[W 23:59:38.801 NotebookApp] Notebook Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb is not trusted
+[W 00:02:24.982 NotebookApp] Culling 'idle' kernel 'python3' (0e735710-8f3e-49c8-8e04-cd02529f3c98) with 1 connections due to 655 seconds of inactivity.
+[I 00:02:24.983 NotebookApp] Kernel shutdown: 0e735710-8f3e-49c8-8e04-cd02529f3c98
+[W 00:02:25.295 NotebookApp] 410 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/9c3c6221-5e89-499a-9b35-6b29e0ae35e4 (187.189.145.198): Kernel deleted before session
+[W 00:02:25.296 NotebookApp] Kernel deleted before session
+[W 00:02:25.296 NotebookApp] 410 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/9c3c6221-5e89-499a-9b35-6b29e0ae35e4 (187.189.145.198) 1.600000ms referer=https://hub.gke2.mybinder.org/user/phystony-9mda3e4_tsa_python-5cbyzpy8/notebooks/Section%204/S_4_L_15/Section%204%20-%20Creating%20a%20Time%20Series%20Object%20in%20Python%20-%20Completed%20.ipynb
+[W 00:08:16.104 NotebookApp] 404 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/9c3c6221-5e89-499a-9b35-6b29e0ae35e4 (187.189.145.198): Session not found: session_id='9c3c6221-5e89-499a-9b35-6b29e0ae35e4'
+[W 00:08:16.104 NotebookApp] Session not found: session_id='9c3c6221-5e89-499a-9b35-6b29e0ae35e4'
+[W 00:08:16.105 NotebookApp] 404 DELETE /user/phystony-9mda3e4_tsa_python-5cbyzpy8/api/sessions/9c3c6221-5e89-499a-9b35-6b29e0ae35e4 (187.189.145.198) 1.640000ms referer=https://hub.gke2.mybinder.org/user/phystony-9mda3e4_tsa_python-5cbyzpy8/notebooks/Section%204/S_4_L_15/Section%204%20-%20Creating%20a%20Time%20Series%20Object%20in%20Python%20-%20Completed%20.ipynb
+[I 00:08:16.177 NotebookApp] Kernel started: da6e5c0e-fd65-4eb4-b3fb-dc4134e36d0c, name: python3
+[I 00:08:37.230 NotebookApp] Saving file at /Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb
+[W 00:08:37.231 NotebookApp] Notebook Section 4/S_4_L_15/Section 4 - Creating a Time Series Object in Python - Completed .ipynb is not trusted
+[I 00:08:39.837 NotebookApp] Starting buffering for da6e5c0e-fd65-4eb4-b3fb-dc4134e36d0c:c72f9d7632424275b801743591592002
